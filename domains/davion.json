@@ -1,1 +1,9 @@
-Davion was here!
+{
+  "owner": {
+    "username": "woreworewo",
+    "email": "krnl32@yahoo.com"
+  },
+  "record": {
+    "CNAME": "woreworewo.github.io"
+  }
+}
